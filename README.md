@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @OrlandH
-- 👀 I’m interested in 
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
+Hola, soy Orland 
+Estudiante 
+No se que más poner jsjsjsjs. 
 
 <!---
 OrlandH/OrlandH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
